@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Fake News Detector",
+  "description": "An AI-powered tool to analyze news articles for credibility, bias, and potential misinformation using Gemini.",
+  "requestFramePermissions": []
+}
